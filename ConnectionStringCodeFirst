@@ -4,6 +4,8 @@
 	</connectionStrings>
 	
 // Don't forget to add EntityFramework to your project
+
+
 // Also, the context (DB) Class should look like this:
 
 public class DB : DbContext
